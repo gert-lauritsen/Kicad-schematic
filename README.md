@@ -1,5 +1,5 @@
 # Kicad-schematic
-
+![Kicad](https://github.com/gert-lauritsen/Kicad-schematic/blob/master/Kicad.jpg)
 ## Beskrivelse
 Vi vil i dette webinar gå dybere ind i Kicad. Vi vil se på hvordan du designer diagrammer og får dem til at se prof ud. 
 
