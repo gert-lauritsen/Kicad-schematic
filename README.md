@@ -16,6 +16,7 @@ Vi vil i dette webinar gå dybere ind i Kicad. Vi vil se på hvordan du designer
 + Hierarkisk design
 + Footprint/netliste
 + DRC
+
 Der vil være nogle opgaver, men da emnet er stort synes vi at I skal lave dem efter seminaret. Alt materiale vil blive lagt op på GitHub. Vi vil bl.a. se på det nye Raspberry PI module 4, da det lige pludseligt gør det muligt, at bruge den i industriel sammenhæng. Dette vil senere blive suppleret med et webinar om PCB delen af Kicad.
 
  
