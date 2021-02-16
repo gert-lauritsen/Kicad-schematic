@@ -27,16 +27,16 @@ Der vil være nogle opgaver, men da emnet er stort synes vi at I skal lave dem e
 
 * Windows: [Nightly Development Builds](https://kicad.org/download/windows/#_nightly_development_builds)/[Stable Release (5.1.9)](https://kicad.org/download/windows/#_stable_release)
 * Ubuntu: [Nightly Development Builds](https://kicad.org/download/ubuntu/#_nightly_development_builds)/[Stable Release (5.1.9)](https://kicad.org/download/ubuntu/#_5_1_9_stable_release)
-* [andre platforme](https://kicad.org/download/)
+* [Andre platforme](https://kicad.org/download/)
 
 ### Eksempel på KiCad-designfiler
 
 Raspberry Pi Compute Module 4 IO Board (også kendt som CM4IO) er et open source hardware I/O board til [Raspberry Pi Compute Module 4](https://www.raspberrypi.org/products/compute-module-4/).
 
-* [designfiler](https://datasheets.raspberrypi.org/cm4io/CM4IO-KiCAD.zip)
-* [produktside](https://www.raspberrypi.org/products/compute-module-4-io-board)
-* [reklameblad](https://datasheets.raspberrypi.org/cm4io/cm4io-product-brief.pdf)
-* [datablad](https://datasheets.raspberrypi.org/cm4io/cm4io-datasheet.pdf)
+* [Designfiler](https://datasheets.raspberrypi.org/cm4io/CM4IO-KiCAD.zip)
+* [Produktside](https://www.raspberrypi.org/products/compute-module-4-io-board)
+* [Reklameblad](https://datasheets.raspberrypi.org/cm4io/cm4io-product-brief.pdf)
+* [Datablad](https://datasheets.raspberrypi.org/cm4io/cm4io-datasheet.pdf)
 
 Raspberry Pi-materialet distribueres under en [CC BY-ND licens](https://datasheets.raspberrypi.org/license.html).
 
