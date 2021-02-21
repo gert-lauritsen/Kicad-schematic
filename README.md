@@ -41,3 +41,5 @@ Raspberry Pi Compute Module 4 IO Board (også kendt som CM4IO) er et open source
 Raspberry Pi-materialet distribueres under en [CC BY-ND licens](https://datasheets.raspberrypi.org/license.html).
 
 Fordragsholder vil blive Gert Lauritsen, der har arbejder med udvikling af Geofysike Instrumenter for Skytem.
+
+[Video](https://youtu.be/OWaGUfBmM4I)
